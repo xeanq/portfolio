@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'mine';
+    src: url(../fonts/minecraft.ttf);
+}
+
+body .navbar .container a{
+    font-family: 'mine' ;
+}
