@@ -3,6 +3,6 @@
     src: url(../fonts/minecraft.ttf);
 }
 
-body .navbar .container a{
+body{
     font-family: 'mine' ;
 }
