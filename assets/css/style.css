@@ -10,3 +10,18 @@ body{
 .kareir{
     margin-top: 200px;
 }
+
+.carousel-item img {
+    display: block;
+    width: 600px;
+    height: 700px !important;
+    margin: 0 auto;
+  }
+
+  .fot2 img{
+    object-fit: contain;
+    object-position: 50% 50%;
+  }
+  .fot2{
+    background-color: white;
+  }
